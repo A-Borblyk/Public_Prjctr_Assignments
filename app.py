@@ -6,6 +6,12 @@ def subtract_two_numbers(x, y):
     return x - y
 
 
+def divide_two_numbers(x, y):
+    return x / y
+
+
 print(add_two_numbers(3, 5))
 
 print(subtract_two_numbers(3, 5))
+
+print(divide_two_numbers(3, 5))
