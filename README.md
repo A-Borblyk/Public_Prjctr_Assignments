@@ -1,7 +1,7 @@
 ## Calculator app
 
-This app is a calculator that contains next functionality:
-- adding and subtravting two numbers (in master branch)
+This app is a calculator that contains the following functionality:
+- adding and subtracting two numbers (in master branch)
 - multiplying two numbers (in feat-mul branch)
 - dividing two numbers (feat-div brach)
 
